@@ -13,7 +13,7 @@ def main():
         "notebooks",
         "src/data",
         "src/features",
-        "src/models",
+        "src/modelling",
         "src/utils",
         "models",
     ]
@@ -33,9 +33,9 @@ def main():
         "src/data/make_dataset.py",
         "src/features/__init__.py",
         "src/features/build_features.py",
-        "src/models/__init__.py",
-        "src/models/train_model.py",
-        "src/models/predict_model.py",
+        "src/modelling/__init__.py",
+        "src/modelling/train_model.py",
+        "src/modelling/predict_model.py",
         "src/utils/__init__.py",
         "notebooks/01_analise_exploratoria.ipynb"
     ]
