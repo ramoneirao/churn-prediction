@@ -30,7 +30,7 @@ def main():
     files = [
         "src/__init__.py",
         "src/data/__init__.py",
-        "src/data/make_dataset.py",
+        "src/data/descompactar.py",
         "src/features/__init__.py",
         "src/features/build_features.py",
         "src/modelling/__init__.py",
