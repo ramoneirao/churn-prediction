@@ -13,6 +13,5 @@ dependencies = [
 ]
 
 [tool.pyright]
-executionEnvironments = [
-  { root = "." }
-]
+extraPaths = ["."]
+
